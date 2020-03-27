@@ -7,6 +7,8 @@ import com.jackkieran.jkmod.util.IHasModel;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
+//This is the basic constructor for a block
+
 public class ItemBase extends Item implements IHasModel{
 
 	public ItemBase(String name) {

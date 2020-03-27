@@ -11,6 +11,9 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemBlock;
 
+
+//This is the basic constructor for a block
+
 public class BlockBase extends Block implements IHasModel {
 
 	public BlockBase(String name, Material material) {
