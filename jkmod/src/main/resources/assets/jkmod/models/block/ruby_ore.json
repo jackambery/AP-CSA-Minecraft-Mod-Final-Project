@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "jkmod:blocks/ruby_ore"
+   }
+}
