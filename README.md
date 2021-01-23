@@ -2,8 +2,8 @@
 Jack's Minecraft Mod for the CSA Final Project
 
 ## Additions to the Game:
-Ruby Item
-Ruby Block
-Ruby Ore
-Full Set of Ruby Armor (Helmet, Chest, Leggings, Boots)
-Full Set of Ruby Tools (Sword, Pickaxe, Axe, Shovel)
+Ruby Item <br />
+Ruby Block <br />
+Ruby Ore <br />
+Full Set of Ruby Armor (Helmet, Chest, Leggings, Boots) <br />
+Full Set of Ruby Tools (Sword, Pickaxe, Axe, Shovel) <br />
